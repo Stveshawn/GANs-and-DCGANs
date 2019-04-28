@@ -1,2 +1,13 @@
 # GANs-and-DCGANs
-GANs and DCGANs application on MNIST data, final for STA 561 at Duke
+
+## STA 561 Final project at Duke
+
+GANs and DCGANs application on MNIST data
+
+__Team members__
+
++ Jiayi Ding jiayi.ding365@duke.edu
+
++ Steve Shao lingyun.shao@duke.edu
+
++ Yangfan Ren yangfan.ren@duke.edu
